@@ -35,23 +35,59 @@ The features of the platform include:
 - React Icons
   <br>
 
-## PROJECT STRUCTURE
+## Project Structure
 
+```
 wid-learn/
-├─ public/
-│ └─ favicon.svg
-├─ src/
-│ ├─ assets/images/ logo, hero images
-│ ├─ components/ Navbar, Footer, CourseCard, ProgressBar, Button, etc.
-│ ├─ context/ AuthContext (login/signup), LearningContext (progress/quiz)
-│ ├─ data/ courses.js - mock course data
-│ ├─ pages/ Home, Courses, CourseDetail, LessonPlayer, Quiz, Dashboard, Profile, etc.
-│ ├─ App.jsx
-│ ├─ index.css
-│ └─ main.jsx
-├─ index.html
-├─ package.json
-└─ vite.config.js
+└─ project_files/
+   ├─ public/
+   │  └─ favicon.svg
+   ├─ src/
+   │  ├─ assets/
+   │  │  ├─ images/
+   │  │  │  ├─ hero-img-7.png
+   │  │  │  └─ wid-learn-logo.png
+   │  │  └─ desktop-design1.png
+   │  ├─ components/
+   │  │  ├─ Breadcrumbs.jsx
+   │  │  ├─ Button.jsx
+   │  │  ├─ CourseCard.jsx
+   │  │  ├─ Footer.jsx
+   │  │  ├─ Layout.jsx
+   │  │  ├─ Logo.jsx
+   │  │  ├─ Navbar.jsx
+   │  │  ├─ ProgressBar.jsx
+   │  │  ├─ ProgressRing.jsx
+   │  │  ├─ ProtectedRoute.jsx
+   │  │  ├─ RatingStars.jsx
+   │  │  └─ StatCard.jsx
+   │  ├─ context/
+   │  │  ├─ AuthContext.jsx
+   │  │  └─ LearningContext.jsx
+   │  ├─ data/
+   │  │  └─ courses.js
+   │  ├─ pages/
+   │  │  ├─ CourseDetail.jsx
+   │  │  ├─ Courses.jsx
+   │  │  ├─ Dashboard.jsx
+   │  │  ├─ Home.jsx
+   │  │  ├─ LessonPlayer.jsx
+   │  │  ├─ Login.jsx
+   │  │  ├─ NotFound.jsx
+   │  │  ├─ Profile.jsx
+   │  │  ├─ Quiz.jsx
+   │  │  ├─ QuizResult.jsx
+   │  │  └─ Signup.jsx
+   │  ├─ App.jsx
+   │  ├─ index.css
+   │  └─ main.jsx
+   ├─ .gitignore
+   ├─ index.html
+   ├─ package.json
+   ├─ package-lock.json
+   ├─ README.md
+   └─ vite.config.js
+```
 <br>
 
 ## Challenges
@@ -85,9 +121,9 @@ Learnt a lot of concepts building this project. Such as:
 
 ## Image/Video Demo
 
-![WID Learn Desktop Design](Assets/desktop-design1.png)
+![WID Learn Desktop Design](project_files/src/assets/images/desktop-design1.png)
 
-## Project Menebers
+## Project Members
 
 Oluwatosin
 Oluwatomisin Tomoloju
