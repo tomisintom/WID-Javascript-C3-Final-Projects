@@ -1,8 +1,8 @@
 # WID Learn
 
-An online learning platform frontend — think Coursera/Udemy style. You can browse courses, enroll, watch lessons, take quizzes, and track your progress from a dashboard.
+An online learning platform frontend. You can browse courses, enroll, watch lessons, take quizzes, and track your progress from a dashboard.
 
-This is a frontend-only project. There's no backend — everything (login, enrollments, progress, quiz scores) is saved in the browser's localStorage.
+This is a frontend-only project. There's no backend. Everything (login, enrollments, progress, quiz scores) is saved in the browser's localStorage.
 <br>
 
 ## AIM
@@ -86,3 +86,8 @@ Learnt a lot of concepts building this project. Such as:
 ## Image/Video Demo
 
 ![WID Learn Desktop Design](Assets/desktop-design1.png)
+
+## Project Menebers
+
+Oluwatosin
+Oluwatomisin Tomoloju
