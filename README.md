@@ -120,10 +120,10 @@ Learnt a lot of concepts building this project. Such as:
   <br>
 
 ## Image/Video Demo
-
-![WID Learn Desktop Design](project_files/src/assets/images/desktop-design1.png)
+<img src="project_files/src/assets/images/desktop-design1.png" alt="WID Learn Desktop Design" width="600">
+<!-- ![WID Learn Desktop Design](project_files/src/assets/images/desktop-design1.png) -->
 
 ## Project Members
 
-Oluwatosin
-Oluwatomisin Tomoloju
+- Oluwatosin
+- Oluwatomisin Tomoloju
