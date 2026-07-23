@@ -10,7 +10,7 @@ This is a frontend-only project. There's no backend. Everything (login, enrollme
 The aim of this project is:
 
 - To build a fully responsive frontend for an online learning platform (LMS)
-- To practice React awhile using tailwind css for styling
+- To practice React while using Tailwind CSS for styling
 
 ## FEATURES
 
@@ -125,5 +125,5 @@ Learnt a lot of concepts building this project. Such as:
 
 ## Project Members
 
-- Oluwatosin
+- Oluwatosin Rotimi     | [Github](https://github.com/Godayanfe) | [LinkedIn](https://www.linkedin.com/in/oluwatosin-rotimi-web3codes/)
 - Oluwatomisin Tomoloju | [Github Profile](https://github.com/tomisintom) | [X Handle](https://x.com/TheTomiTom) | [LinkedIn](https://www.linkedin.com/in/oluwatomisin-tomoloju/)
