@@ -120,10 +120,10 @@ Learnt a lot of concepts building this project. Such as:
   <br>
 
 ## Image/Video Demo
-<img src="project_files/src/assets/images/desktop-design1.png" alt="WID Learn Desktop Design" width="600">
+<img width="1832" height="958" alt="Screenshot 2026-07-13 223618" src="https://github.com/user-attachments/assets/911ca0eb-773e-4037-8c7d-e009253881b9" />
 <!-- ![WID Learn Desktop Design](project_files/src/assets/images/desktop-design1.png) -->
 
 ## Project Members
 
 - Oluwatosin
-- Oluwatomisin Tomoloju
+- Oluwatomisin Tomoloju | [Github Profile](https://github.com/tomisintom) | [X Handle](https://x.com/TheTomiTom) | [LinkedIn](https://www.linkedin.com/in/oluwatomisin-tomoloju/)
