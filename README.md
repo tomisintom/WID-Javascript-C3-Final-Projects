@@ -35,7 +35,7 @@ The features of the platform include:
 - React Icons
   <br>
 
-## Project Structure
+## PROJECT STRUCTURE
 
 ```
 wid-learn/
@@ -90,7 +90,7 @@ wid-learn/
 ```
 <br>
 
-## Challenges
+## CHALLENGES
 
 Navbar dropdown not responding to clicks
 The profile dropdown menu (Dashboard/Profile/Log out) in the navbar looked fine but clicking on any of its options did nothing. The dropdown was being closed by an onBlur event on the toggle button combined with a setTimeout delay, meant to give clicks inside the menu time to register before closing it. In practice, the blur fired and closed the menu right before the click on the link/button underneath could register, so the click was effectively swallowed. Traced the issue back to that onBlur + setTimeout logic, removed it, and replaced it with a click-outside listener attached to the document — the menu now only closes when you click somewhere outside it, so clicks on Dashboard, Profile, and Log out always go through.
@@ -107,7 +107,7 @@ Deciding how to split the codebase into components, pages, context, and data was
 To Access the Platform, [Click Here](https://wid-learn.vercel.app/)
 <br>
 
-## Learning Curve
+## LEARNING CURVE
 
 Learnt a lot of concepts building this project. Such as:
 
@@ -119,11 +119,11 @@ Learnt a lot of concepts building this project. Such as:
 - Working with icon libraries (React Icons)
   <br>
 
-## Image/Video Demo
+## IMAGE DEMO
 <img width="1832" height="958" alt="Screenshot 2026-07-13 223618" src="https://github.com/user-attachments/assets/911ca0eb-773e-4037-8c7d-e009253881b9" />
 <!-- ![WID Learn Desktop Design](project_files/src/assets/images/desktop-design1.png) -->
 
-## Project Members
+## PROJECT MEMBERS
 
 - Oluwatosin Rotimi     | [Github](https://github.com/Godayanfe) | [LinkedIn](https://www.linkedin.com/in/oluwatosin-rotimi-web3codes/)
 - Oluwatomisin Tomoloju | [Github Profile](https://github.com/tomisintom) | [X Handle](https://x.com/TheTomiTom) | [LinkedIn](https://www.linkedin.com/in/oluwatomisin-tomoloju/)
